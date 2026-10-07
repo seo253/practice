@@ -1,4 +1,15 @@
-<body> 
-    <img src=”https://share.google/images/af1nRD7z3lhL5oTHk" alt="펭귄" width="300"> 
-    <img src="Nothing" alt="그림이 존재하지 않습니다."width="300">
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS3 Selector Basic</title>
+    <style>
+        h1 {
+            color: red;
+            background-color: orange;
+        }
+</style>
+</head>
+<body>
+    <h1>CSS3 선택자 기본</h1>
 </body>
+</html>
