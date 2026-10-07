@@ -3,13 +3,11 @@
 <head>
     <title>CSS3 Selector Basic</title>
     <style>
-        h1 {
-            color: red;
-            background-color: orange;
-        }
-</style>
+        * { color: red; }
+    </style>
 </head>
 <body>
-    <h1>CSS3 선택자 기본</h1>
+    <h1>제목 글자</h1>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 </body>
 </html>
