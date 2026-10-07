@@ -1,9 +1,18 @@
-<style>
-    div {
-        width: 100px; height: 100px;
-        background-color: red;
- 
-        border: 20px solid black;
-        margin: 10px; padding: 30px;
-    }
-</style>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS3 Property Basic</title>
+    <style>
+ .box {
+ border-width: thick;
+ border-style: dashed;
+ border-color: black;
+ }
+    </style>
+</head>
+<body>
+    <div class="box">
+ 	<h1>Lorem ipsum dolor amet</h1>
+    </div>
+</body>
+</html>
