@@ -1,20 +1,17 @@
-#content {
- 	   width: 600px; float: left;
- 	   background: green;
- 	}
-   </style>
+<!DOCTYPE html>
+<html>
+<head>
+    <title>CSS3 Selector Basic</title>
+    <style>
+ 	.select { color: red; }
+    </style>
 </head>
 <body>
-   <div id="header">
-      <h1>#header 태그</h1>
-   </div>
-   <div id="wrap">
-      <div id="aside">
-         <h1>#aside 태그</h1>
-      </div>
-      <div id="content">
-         <h1>#content 태그</h1>
-      </div>
-   </div>
+    <ul>
+ 	<li class="select">사과</li>
+ 	<li>바나나</li>
+ 	<li class="select">오렌지</li>
+ 	<li>감</li>
+    </ul>
 </body>
 </html>
