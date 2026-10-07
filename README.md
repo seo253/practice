@@ -3,15 +3,12 @@
 <head>
     <title>CSS3 Selector Basic</title>
     <style>
- 	.select { color: red; }
-    </style>
+ 	.item { color: red; }
+ 	.header { background-color: blue; }
+</style>
+</head>
 </head>
 <body>
-    <ul>
- 	<li class="select">사과</li>
- 	<li>바나나</li>
- 	<li class="select">오렌지</li>
- 	<li>감</li>
-    </ul>
+    <h1 class="item header">동해물과 백두산이</h1> 
 </body>
 </html>
