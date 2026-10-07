@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>CSS3 Selector Basic</title>
-    <style>
- 	.item { color: red; }
- 	.header { background-color: blue; }
+<style>
+    div {
+        width: 100px; height: 100px;
+        background-color: red;
+ 
+        border: 20px solid black;
+        margin: 10px; padding: 30px;
+    }
 </style>
-</head>
-</head>
-<body>
-    <h1 class="item header">동해물과 백두산이</h1> 
-</body>
-</html>
